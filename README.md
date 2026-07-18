@@ -11,5 +11,5 @@
 
 ## 💻 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito)
+![LeetCode Stats](https://leetcard.jacoblin.cool/naiduvelamala17?theme=dark&font=Nunito)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
